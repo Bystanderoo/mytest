@@ -2,7 +2,7 @@
 
 原题链接：[https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/]()
 
-![image-20210419202458032](C:\Users\ZFJ\AppData\Roaming\Typora\typora-user-images\image-20210419202458032.png)
+![image](https://user-images.githubusercontent.com/55056723/115260646-89c3a000-a165-11eb-9074-23139eccf6d8.png)
 
 归根结底是一个排序问题，只不过这个排序和普通的排序不同，应该根据组合后数的大小来确定“小”还是“大”，（x、y都是string类型）如果x+y>y+x  ，则说明x>y。
 
