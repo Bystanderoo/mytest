@@ -60,7 +60,8 @@
 
 A的前半部分长度为x，B的前半部分的长度为y，则有x+m+y=y+m+x 此时正处于相交点
 
-![image-20210421224035622](C:\Users\ZFJ\AppData\Roaming\Typora\typora-user-images\image-20210421224035622.png)
+
+
 
 ```c
 /**
